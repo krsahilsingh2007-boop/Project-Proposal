@@ -1,0 +1,7 @@
+{
+  "name": "Smart Energy Dashboard",
+  "description": "A robust smart home energy monitoring and appliance automation platform with real-time analytics and secure remote control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
